@@ -3,7 +3,6 @@
 
 👨🏻‍🎓 I am currently a student<br/>
 🧾 I am passionate about web and backend development and providing the best to the customer<br/>
-📒 Education at Islamic Azad University, Hamedan Branch<br/>
 💼 He is currently a master's student in computer engineering!<br/>
 
 <!-------------------------------------------------------------------------------------------------------------------------------------->
