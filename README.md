@@ -1,7 +1,7 @@
 # Hi I'm Hosseinbabaei! <br> [![Github](https://img.shields.io/github/followers/hosseinbabaei1?label=Follow&style=social)](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fhosseinbabaei1)
 
 
-👨🏻‍🎓 I am currently a student<br/>
+👨🏻‍🎓 I am Hossein<br/>
 🧾 I am passionate about web and backend development and providing the best to the customer<br/>
 💼 He is currently a master's student in computer engineering!<br/>
 
