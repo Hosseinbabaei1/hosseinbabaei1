@@ -2,8 +2,8 @@
 
 
 👨🏻‍🎓 I am Hossein<br/>
-🧾 I am passionate about web and backend development and providing the best to the customer<br/>
-💼 He is currently a master's student in computer engineering!<br/>
+🎓 Master’s student in Computer Engineering.<br/> 
+🧾 Passionate about web and 3D web development, with a strong focus on delivering exceptional value to clients.<br/>
 
 <!-------------------------------------------------------------------------------------------------------------------------------------->
 
