@@ -3,7 +3,7 @@
 
 👨🏻‍🎓 I am Hossein<br/>
 🎓 Master’s student in Computer Engineering.<br/> 
-🧾 Passionate about web and 3D web development, with a strong focus on delivering exceptional value to clients.<br/>
+🧾 Passionate about web development, with a strong focus on delivering exceptional value to customers.<br/>
 
 <!-------------------------------------------------------------------------------------------------------------------------------------->
 
