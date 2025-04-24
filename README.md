@@ -15,7 +15,7 @@
 </div>
 
 <!-- Dark Mode -->
-<!-- 
+
 <div align="left"> 
 
 <a href="https://github.com/Hosseinbabaei1/hosseinbabaei1/tree/main#gh-dark-mode-only">
@@ -24,10 +24,10 @@
 </div>
 
 <br/>
--->
+
 
 <!-- Dark Mode Table  -->
-
+<!--
 <table>
   <tr>
     <td>
@@ -43,7 +43,7 @@
     </td>
   </tr>
 </table>
-
+-->
 <!-- Update 3 -->
 <!--
 <p align="left">
