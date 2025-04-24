@@ -74,4 +74,7 @@
 ### 📫 Contact Me
 - Telegram: [@Hossein](https://t.me/hossein)
 - Email: hossein@example.com
-- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/hossein)
+- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/hossein)<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hosseinbabaei1&layout=compact)
+
