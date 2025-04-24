@@ -68,6 +68,7 @@
   </div>
   <div style="color=#fafafa">
     <p>test1</p>
-    <img style="hight=10" src="https://avatars.githubusercontent.com/u/156106264?v=4">
+    <img style="hight=10px,with=10px" src="https://avatars.githubusercontent.com/u/156106264?v=4">
+    # 💻 info me
   </div>
 </div>
