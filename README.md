@@ -72,4 +72,6 @@
   <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
+
+
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
