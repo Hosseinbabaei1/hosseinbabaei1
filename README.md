@@ -63,7 +63,7 @@
 
 <!-------------------------------------------------------------------------------------------------------------------------------------->
 
-## 💻 Tech Stack
+## 💻 Tech Stack .
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white" />
