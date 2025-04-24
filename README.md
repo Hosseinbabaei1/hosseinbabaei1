@@ -69,5 +69,9 @@
 
 ### 🚀 Featured Projects
 - 🛍️ [Coffee Store Website](https://github.com/Hosseinbabaei1/coffee-shop) – A responsive e-commerce coffee site.
-- 👤 [Personal Portfolio](https://github.com/Hosseinbabaei1/personal-portfolio) – My modern personal portfolio site.
+- 👤 [Personal Portfolio](https://github.com/Hosseinbabaei1/personal-portfolio) – My modern personal portfolio site.<br/>
 
+### 📫 Contact Me
+- Telegram: [@Hossein](https://t.me/hossein)
+- Email: hossein@example.com
+- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/hossein)
