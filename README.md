@@ -63,14 +63,14 @@
 
 <!-------------------------------------------------------------------------------------------------------------------------------------->
 
-<h3>🚀 Tech Stack</h3>
+### 🚀 Tech Stack
 
-<div align="center" style="background-color:#0d1117; padding:20px; border-radius:15px; display:flex; flex-wrap:wrap; gap:10px; justify-content:center;">
-  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=white" />
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
 
