@@ -65,4 +65,9 @@
 
 # Test Perofilo
 
-<img src="https://your-image-link.com/banner.png" alt="Welcome Banner" />
+<img src="https://your-image-link.com/banner.png" alt="Welcome Banner" /><br/>
+
+### 🚀 Featured Projects
+- 🛍️ [Coffee Store Website](https://github.com/Hosseinbabaei1/coffee-shop) – A responsive e-commerce coffee site.
+- 👤 [Personal Portfolio](https://github.com/Hosseinbabaei1/personal-portfolio) – My modern personal portfolio site.
+
