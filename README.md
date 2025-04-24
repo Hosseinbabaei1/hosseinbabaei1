@@ -28,9 +28,11 @@
 <div>
 
 <!-- Light Mode -->
-
+<a href="https://discord.com/invite/PWEVNuHjDc#gh-light-mode-only">
+<img src="https://img.shields.io/badge/chat-%40-1DA1F2?style=for-the-badge&logo=discord&labelColor=000&color=3572A5#gh-light-mode-only" alt="Ask me anything">
+</a>
 <!-- Dark Mode -->
-<a href="[https://discord.gg/GmAT7RfafT](https://discord.gg/EGhM5NwTzV)-dark-mode-only">
+<a href="https://discord.com/invite/PWEVNuHjDc#gh-dark-mode-only">
 <img src="https://img.shields.io/badge/chat-%40Join our Discord-1DA1F2?style=for-the-badge&logo=discord&labelColor=000&color=FFF#gh-dark-mode-only" alt="Ask me anything">
 </a>
 &nbsp;  
