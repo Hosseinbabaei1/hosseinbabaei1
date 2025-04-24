@@ -53,7 +53,7 @@
 <!-------------------------------------------------------------------------------------------------------------------------------------->
 
 <!-- # 💻 Tech Stack-->
-<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+Badges from https://github.com/Ileriayo/markdown-badges 
 
 
 <!-- 
