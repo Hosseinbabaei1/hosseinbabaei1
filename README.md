@@ -7,21 +7,7 @@
 
 <!-------------------------------------------------------------------------------------------------------------------------------------->
 
-<div align="left"> 
 
-<a href="https://github.com/Hosseinbabaei1/hosseinbabaei1/tree/main#gh-light-mode-only">
-<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hosseinbabaei1&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="hosseinbabaei1's Github stats" />
-</a>
-</div>
-
-<!-- Dark Mode -->
-
-<div align="left"> 
-
-<a href="https://github.com/Hosseinbabaei1/hosseinbabaei1/tree/main#gh-dark-mode-only">
-<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hosseinbabaei1&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="hosseinbabaei1's Github stats" />
-</a>
-</div>
 
 <br/>
 
