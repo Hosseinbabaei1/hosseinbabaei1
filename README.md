@@ -4,9 +4,8 @@
 👨🏻‍🎓 I am Hossein<br/>
 🎓 Master’s student in Computer Engineering.<br/> 
 🧾 Passionate about web development, with a strong focus on delivering exceptional value to customers.<br/>
-<br/>
+<!-- <br/> -->
 <!-- <img src="https://i.pinimg.com/736x/4a/2c/63/4a2c637f229538bd0d27d6ba07e5da8c.jpg" width="540" height="300"> -->
-
 
 <!-------------------------------------------------------------------------------------------------------------------------------------->
 
